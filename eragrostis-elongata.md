@@ -1,3 +1,7 @@
+---
+title: Ergrostis elongata - Clustered Lovegrass
+---
+
 # Ergrostis elongata
 Clustered Lovegrass
 
