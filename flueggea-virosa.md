@@ -28,5 +28,5 @@ eat the fruit. Useful in erosion control.
 <div id="qrcode"></div>
 <script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
 <script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io/{{ site.baseurl }}/flueggea-virosa");
+new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io{{ site.baseurl }}/flueggea-virosa");
 </script>
