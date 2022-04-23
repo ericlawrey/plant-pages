@@ -4,5 +4,5 @@ This site contains information plants native to Townsville, Queensland, Australi
 This site currently only focuses on the very small number of plant species that reside in my garden.
 
 ## Plants:
-- [Ergrostis elongata - Clustered Lovegrass](ergrostis-elongata)
+- [Eragrostis elongata - Clustered Lovegrass](eragrostis-elongata)
 
