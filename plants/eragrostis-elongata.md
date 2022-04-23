@@ -1,3 +1,5 @@
+<script src="{{ site.baseurl }}{% link /assets/js/qrcode.js %}" </script>
+
 # Ergrostis elongata
 Clustered Lovegrass
 
