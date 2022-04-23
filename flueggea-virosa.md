@@ -34,7 +34,7 @@ eat the fruit. Useful in erosion control.
 
 {{ page.commonname }}
 
-{{site.url}}{{ page.url }}
+{{site.url}}{{ page.url | relative_url }}
 
 <div id="qrcode"></div>
 <script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
