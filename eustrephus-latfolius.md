@@ -26,5 +26,5 @@ Leaves eaten by caterpillars of at least 4 moth species.
 <div id="qrcode"></div>
 <script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
 <script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io/{{ site.baseurl }}/eustrephus-latfolius");
+new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io{{ site.baseurl }}/eustrephus-latfolius");
 </script>
