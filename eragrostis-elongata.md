@@ -1,7 +1,7 @@
 # Ergrostis elongata
 Clustered Lovegrass
 
-![Seed heads of clustered lovegrass.](images/eragrostis-elongata-IMG_7067.jpg)
+![Seed heads of clustered lovegrass.](/plants/images/eragrostis-elongata-IMG_7067.jpg)
 ## Natural Occurence
 A local grass, often in/near alluvial, well-watered habitats. Also in disturbed sites, beach dunes, & rocky gullies.
 ## Appearance:
