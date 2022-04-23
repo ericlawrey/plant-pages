@@ -19,5 +19,5 @@ Attractive In mass plantings. Produces many, fast- germinating seeds, so spreads
 <div id="qrcode"></div>
 <script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
 <script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "{{ site.baseurl }}{% link eragrostis-elongata %}");
+new QRCode(document.getElementById("qrcode"), "{{ site.baseurl }}/eragrostis-elongata");
 </script>
