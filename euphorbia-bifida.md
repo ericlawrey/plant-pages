@@ -25,3 +25,10 @@ contrast in a dry-themed garden. A hardy plant for
 exposed positions in gardens and rockeries.
 
 ## Botanical Family: EUPHORBIACEAE
+
+
+<div id="qrcode"></div>
+<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
+<script type="text/javascript">
+new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io/{{ site.baseurl }}/euphorbia-bifida");
+</script>
