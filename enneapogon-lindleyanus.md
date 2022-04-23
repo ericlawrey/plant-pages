@@ -25,6 +25,6 @@ pasture plant. Attractive flower/seed heads.
 <div id="qrcode"></div>
 <script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
 <script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "{{ site.baseurl }}{% link enneapogon-lindleyanus %}");
+new QRCode(document.getElementById("qrcode"), "{{ site.baseurl }}/link enneapogon-lindleyanus");
 </script>
 
