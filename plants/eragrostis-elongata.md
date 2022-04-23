@@ -1,6 +1,7 @@
 This is some text before the script. 2
 <div id="qrcode"></div>
-<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}" </script>
+<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
+
 
 <script type="text/javascript">
 new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io/plant-pages/plants/eragrostis-elongata");
