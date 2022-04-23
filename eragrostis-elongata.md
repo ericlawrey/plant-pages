@@ -1,12 +1,3 @@
-This is some text before the script. 3
-<div id="qrcode"></div>
-<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
-
-
-<script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io/plant-pages/plants/eragrostis-elongata");
-</script>
-
 # Ergrostis elongata
 Clustered Lovegrass
 
@@ -20,3 +11,9 @@ Grows in full sun/light shade, & wide range of soil types. Tolerates poor soil. 
 ## Distirctive Features: 
 Attractive In mass plantings. Produces many, fast- germinating seeds, so spreads quickly on revegetation sites - used as cover plant for slower growing native: grasses. Finches eat the seeds. 
 ## Botanical Family: POACEAE
+
+<div id="qrcode"></div>
+<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
+<script type="text/javascript">
+new QRCode(document.getElementById("qrcode"), "{{ site.baseurl }}{% link eragrostis-elongata %}");
+</script>
