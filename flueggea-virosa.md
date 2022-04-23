@@ -1,5 +1,10 @@
-# Flueggea virosa
-White Currant
+---
+species: flueggea virosa
+commonname: White Currant
+---
+
+# {{ page.species | capitalize }}
+{{ page.commonname }}
 
 # Natural Occurrence:
 A local shrub/small tree. Occurs in open forest, vine
@@ -25,8 +30,14 @@ eat the fruit. Useful in erosion control.
 
 # Botanical Family: PHYLLANTHACEAE
 
+{{ page.species | capitalize }}
+
+{{ page.commonname }}
+
+{{site.url}}{{ page.url }}
+
 <div id="qrcode"></div>
 <script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
 <script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io{{ site.baseurl }}/flueggea-virosa");
+new QRCode(document.getElementById("qrcode"), "{{site.url}}{{ page.url }}");
 </script>
