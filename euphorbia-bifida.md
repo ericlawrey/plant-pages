@@ -30,5 +30,5 @@ exposed positions in gardens and rockeries.
 <div id="qrcode"></div>
 <script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
 <script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io/{{ site.baseurl }}/euphorbia-bifida");
+new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io{{ site.baseurl }}/euphorbia-bifida");
 </script>
