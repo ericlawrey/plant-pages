@@ -1,3 +1,5 @@
+This is some text before the script
+
 <script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}" </script>
 <div id="qrcode"></div>
 <script type="text/javascript">
