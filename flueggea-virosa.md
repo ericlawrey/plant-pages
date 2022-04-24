@@ -30,14 +30,4 @@ eat the fruit. Useful in erosion control.
 
 # Botanical Family: PHYLLANTHACEAE
 
-{{ page.species | capitalize }}
-
-{{ page.commonname }}
-
-{{site.url}}{{ page.url | relative_url }}
-
-<div id="qrcode"></div>
-<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
-<script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "{{site.url}}{{ page.url }}");
-</script>
+{% include qrlabel.html %}
