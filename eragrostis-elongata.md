@@ -1,9 +1,10 @@
 ---
-title: Ergrostis elongata - Clustered Lovegrass
+species: ergrostis elongata
+commonname: Clustered Lovegrass
+title: Ergrostis elongata
+description: Clustered Lovegrass
+layout: speciesinfo
 ---
-
-# Ergrostis elongata
-Clustered Lovegrass
 
 ![Seed heads of clustered lovegrass.](/plants/images/eragrostis-elongata-IMG_7067.jpg)
 ## Natural Occurence
@@ -16,8 +17,3 @@ Grows in full sun/light shade, & wide range of soil types. Tolerates poor soil. 
 Attractive In mass plantings. Produces many, fast- germinating seeds, so spreads quickly on revegetation sites - used as cover plant for slower growing native: grasses. Finches eat the seeds. 
 ## Botanical Family: POACEAE
 
-<div id="qrcode"></div>
-<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
-<script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io{{ site.baseurl }}/eragrostis-elongata");
-</script>
