@@ -11,4 +11,12 @@ This site currently only focuses on the very small number of plant species that 
 - [Eustrephus-latfolius Wombat Berry](eustrephus-latfolius)
 - [Flueggea-virosa White Currant](flueggea-virosa)
 - [Enneapogon robustissimus Nine-Awn Grass](enneapogon-robustissimus)
-
+- [Larsenaikia ochreata Native Gardenia](larsenaikia-ochreata)
+- [Aristolochia acuminata Native Dutchman's Pipe](aristolochia-acuminata)
+- [Sannantha papillosa Mt Elliott Myrtle](sannantha-papillosa)
+- [Haemodorum coccineum Scarlet Bloodroot](haemodorum-coccineum)
+- [Uraria picta](uraria-picta)
+- [Indigofera linifolia Narrow-leaf Indigo](indigofera-linifolia)
+- [Trichodesma zeylanicum Camel Bush](trichodesma-zeylanicum)
+- [Zornia muriculata Upright Zornia](zornia-muriculata)
+- [Acacia simsii Sim's Wattle, Heathland Wattle](acacia-simsii)
