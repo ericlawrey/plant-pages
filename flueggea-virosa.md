@@ -2,7 +2,7 @@
 species: flueggea virosa
 commonname: White Currant
 title: Flueggea virosa
-description: {{ commonname }}
+description: White Currant
 layout: speciesinfo
 ---
 
