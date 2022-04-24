@@ -6,9 +6,6 @@ description: Native Gardenia
 layout: speciesinfo
 ---
 
-Larsenaikia ochreata
-Native Gardenia
-
 ## Natural Occurrence:
 Very common locally. Grows along creek banks and in
 open forest in drier, coastal and inland areas.
