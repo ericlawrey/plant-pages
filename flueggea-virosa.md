@@ -3,10 +3,8 @@ species: flueggea virosa
 commonname: White Currant
 title: Flueggea virosa
 description: This is the name
+layout: speciesinfo
 ---
-
-# {{ page.species | capitalize }}
-{{ page.commonname }}
 
 # Natural Occurrence:
 A local shrub/small tree. Occurs in open forest, vine
@@ -32,4 +30,3 @@ eat the fruit. Useful in erosion control.
 
 # Botanical Family: PHYLLANTHACEAE
 
-{% include qrlabel.html %}
