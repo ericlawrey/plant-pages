@@ -1,5 +1,10 @@
-# Enneapogon lindleyanus
-Lindley Nine-Awn Grass
+---
+species: enneapogon lindleyanus
+commonname: Lindley Nine-Awn Grass
+title: Enneapogon lindleyanus
+description: Lindley Nine-Awn Grass
+layout: speciesinfo
+---
 
 ## Natural Occurrence:
 A local grass found mostly on hills, amongst rocks and
@@ -21,10 +26,3 @@ soils. A good, small plant for rockeries.
 Food plant of the Northern Hairy-nose Wombat. ketth)
 Grazed a little by stock, but not an important
 pasture plant. Attractive flower/seed heads.
-
-<div id="qrcode"></div>
-<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
-<script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io{{ site.baseurl }}/enneapogon-lindleyanus");
-</script>
-
