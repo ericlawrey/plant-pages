@@ -1,8 +1,8 @@
 ---
 species: flueggea virosa
 commonname: White Currant
-title: This is the title
-name: This is the name
+title: Flueggea virosa
+description: This is the name
 ---
 
 # {{ page.species | capitalize }}
