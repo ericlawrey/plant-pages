@@ -1,5 +1,10 @@
-# Euphorbia bifida
-Saw-edged Spurge
+---
+species: euphorbia bifida
+commonname: Saw-edged Spurge
+title: Euphorbia bifida
+description: Saw-edged Spurge
+layout: speciesinfo
+---
 
 ## Natural Occurrence:
 A local plant of sandy soils on margins of beach scrub, in
@@ -25,10 +30,3 @@ contrast in a dry-themed garden. A hardy plant for
 exposed positions in gardens and rockeries.
 
 ## Botanical Family: EUPHORBIACEAE
-
-
-<div id="qrcode"></div>
-<script src="{{ site.baseurl }}{% link assets/js/qrcode.js %}"> </script>
-<script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://ericlawrey.github.io{{ site.baseurl }}/euphorbia-bifida");
-</script>
