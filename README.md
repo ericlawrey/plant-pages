@@ -8,7 +8,7 @@ This site currently only focuses on the very small number of plant species that 
 - [Enneapogon-lindleyanus, Lindley Nine-Awn Grass](enneapogon-lindleyanus)
 - [Enneapogon robustissimus, Nine-Awn Grass](enneapogon-robustissimus)
 - [Capillipedium parviflorum, Scented Top](capillipedium-parviflorum)
-- [
+- [Cymbopogon bombycinus, Citronella grass](cymbopogon-bombycinus)
  
 ## Other plants
 - [Brunoniella acaulis, Blue Yam, Blue Trumpet](brunoniella-acaulis)
