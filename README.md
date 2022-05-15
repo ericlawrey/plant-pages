@@ -3,20 +3,25 @@ This site contains information plants native to Townsville, Queensland, Australi
 
 This site currently only focuses on the very small number of plant species that reside in my garden.
 
-## Plants:
+## Grasses:
 - [Eragrostis elongata - Clustered Lovegrass](eragrostis-elongata)
-- [Enchylaena-tomentosa Ruby Saltbush](enchylaena-tomentosa)
-- [Enneapogon-lindleyanus Lindley Nine-Awn Grass](enneapogon-lindleyanus)
-- [Euphorbia-bifida Saw-edged Spurge](euphorbia-bifida)
-- [Eustrephus-latfolius Wombat Berry](eustrephus-latfolius)
-- [Flueggea-virosa White Currant](flueggea-virosa)
-- [Enneapogon robustissimus Nine-Awn Grass](enneapogon-robustissimus)
-- [Larsenaikia ochreata Native Gardenia](larsenaikia-ochreata)
-- [Aristolochia acuminata Native Dutchman's Pipe](aristolochia-acuminata)
-- [Sannantha papillosa Mt Elliott Myrtle](sannantha-papillosa)
-- [Haemodorum coccineum Scarlet Bloodroot](haemodorum-coccineum)
+- [Enneapogon-lindleyanus, Lindley Nine-Awn Grass](enneapogon-lindleyanus)
+- [Enneapogon robustissimus, Nine-Awn Grass](enneapogon-robustissimus)
+- [Capillipedium parviflorum, Scented Top](capillipedium-parviflorum)
+ 
+## Other plants
+- [Brunoniella acaulis, Blue Yam, Blue Trumpet](brunoniella-acaulis)
+- [Lomandra longifolia, Spiny-headed Mat-rush](lomandra-longifolia)
+- [Enchylaena-tomentosa, Ruby Saltbush](enchylaena-tomentosa)
+- [Euphorbia-bifida, Saw-edged Spurge](euphorbia-bifida)
+- [Eustrephus-latfolius, Wombat Berry](eustrephus-latfolius)
+- [Flueggea-virosa, White Currant](flueggea-virosa)
+- [Larsenaikia ochreata, Native Gardenia](larsenaikia-ochreata)
+- [Aristolochia acuminata, Native Dutchman's Pipe](aristolochia-acuminata)
+- [Sannantha papillosa, Mt Elliott Myrtle](sannantha-papillosa)
+- [Haemodorum coccineum, Scarlet Bloodroot](haemodorum-coccineum)
 - [Uraria picta](uraria-picta)
-- [Indigofera linifolia Narrow-leaf Indigo](indigofera-linifolia)
-- [Trichodesma zeylanicum Camel Bush](trichodesma-zeylanicum)
-- [Zornia muriculata Upright Zornia](zornia-muriculata)
-- [Acacia simsii Sim's Wattle, Heathland Wattle](acacia-simsii)
+- [Indigofera linifolia, Narrow-leaf Indigo](indigofera-linifolia)
+- [Trichodesma zeylanicum, Camel Bush](trichodesma-zeylanicum)
+- [Zornia muriculata, Upright Zornia](zornia-muriculata)
+- [Acacia simsii, Sim's Wattle, Heathland Wattle](acacia-simsii)
